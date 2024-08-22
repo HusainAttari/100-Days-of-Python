@@ -1,0 +1,12 @@
+{
+    "1": {
+        "item": "Apple Pie",
+        "ingredients": {
+            "Apples": 250.0,
+            "Pie Crust": 1.0,
+            "Cinnamon": 20.0,
+            "Sugar": 30.0
+        },
+        "cost": 15.0
+    }
+}
