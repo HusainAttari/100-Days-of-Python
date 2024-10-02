@@ -6,3 +6,4 @@
 3. Day 17 - Quiz
 4. Day 18 - Hirst Painting
 5. Day 19 - Etch-a-Sketch & Turtle-Race
+6. Day 20 & 21 - Snake Game
