@@ -9,3 +9,4 @@
 6. Day 20 & 21 - Snake Game
 7. Day 22 - Pong! (Classic pong game)
 8. Day 23 - Turtle Crossing (Animal crossing but retro version using turtle)
+9. Day 24 - Snake Game 2.0 (High score now included)
