@@ -11,3 +11,4 @@
 8. Day 23 - Turtle Crossing (Animal crossing but retro version using turtle)
 9. Day 24 - Snake Game 2.0 (High score now included)
 10. Day 25 - Squirrel Census & U.S. States Guessing Game
+11. Day 26 - NATO Alphabet Project (Understanding and using list/dict comprehension)
