@@ -13,3 +13,4 @@
 10. Day 25 - Squirrel Census & U.S. States Guessing Game
 11. Day 26 - NATO Alphabet Project (Understanding and using list/dict comprehension)
 12. Day 27 - Miles to Kilometers Converter (GUI using Tkinter)
+13. Day 28 - Pomodoro Timer (GUI using Tkinter - with additional features like an alarm and pushing the window to the top)
