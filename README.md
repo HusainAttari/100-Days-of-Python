@@ -17,3 +17,5 @@
 14. Day 29 - Password Manager (GUI using Tkinter)
 15. Day 30 - Password Manager Improved (Added "Search" function to look up existing passwords using the website name)
 16. Day 31 - Flash Card App
+17. Day 33 - Kanye Quote Generator (Using API endpoints)
+18. Day 34 - Quizzler! (Trivia App - Using API endpoints and tkinter)
