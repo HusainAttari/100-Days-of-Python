@@ -52,9 +52,10 @@ if abs(diff_percent) > 0 :
 s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
 s.login(GMAIL_ID, GMAIL_PASSWORD)
-message = f"{STOCK}: {f'🔺{round(abs(diff_percent))}' if diff_percent > 0 else f'🔻{round(abs(diff_percent))}'}\nHeadline: {articles[0]['title']}\nBrief: {articles[0]['description']}\nLink: [Click here to redirect to the article]({articles[0]['url']})".encode('utf8')
-s.sendmail(GMAIL_ID, GMAIL_ID, message)
-s.quit()
+for article in articles :
+	message = f"{STOCK}: {f'🔺{round(abs(diff_percent))}' if diff_percent > 0 else f'🔻{round(abs(diff_percent))}'}\nHeadline: {article['title']}\nBrief: {article['description']}\nLink: [Click here to redirect to the article]({article['url']})".encode('utf8')
+	s.sendmail(GMAIL_ID, GMAIL_ID, message)
+	s.quit()
 #Optional: Format the SMS message like this: 
 """
 TSLA: 🔺2%
