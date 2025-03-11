@@ -19,3 +19,4 @@
 16. Day 31 - Flash Card App
 17. Day 33 - Kanye Quote Generator (Using API endpoints)
 18. Day 34 - Quizzler! (Trivia App - Using API endpoints and tkinter)
+19. Day 36 - Stock News - API to get closing stock prices and email the user with news articles if there are any major fluctuations 
