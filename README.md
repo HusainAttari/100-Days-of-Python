@@ -20,3 +20,4 @@
 17. Day 33 - Kanye Quote Generator (Using API endpoints)
 18. Day 34 - Quizzler! (Trivia App - Using API endpoints and tkinter)
 19. Day 36 - Stock News - API to get closing stock prices and email the user with news articles if there are any major fluctuations 
+20. Day 37 - Pixela Habit Tracker - Introduction to HTTP POST / PUT / DELETE (Didn't use DELETE in this project though)
