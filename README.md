@@ -21,3 +21,4 @@
 18. Day 34 - Quizzler! (Trivia App - Using API endpoints and tkinter)
 19. Day 36 - Stock News - API to get closing stock prices and email the user with news articles if there are any major fluctuations 
 20. Day 37 - Pixela Habit Tracker - Introduction to HTTP POST / PUT / DELETE (Didn't use DELETE in this project though)
+21. Day 38 - Fitness Tracker - Using POST requests to get workout data from a language model and then parsing and storing data in a google sheet using Sheety API
