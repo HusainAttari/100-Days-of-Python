@@ -23,3 +23,5 @@
 20. Day 37 - Pixela Habit Tracker - Introduction to HTTP POST / PUT / DELETE (Didn't use DELETE in this project though)
 21. Day 38 - Fitness Tracker - Using POST requests to get workout data from a language model and then parsing and storing data in a google sheet using Sheety API
 22. Day 39 - Flight Deal Finder - Capstone project using all previous knowledge to access APIs and mail the user when a cheap flight is available
+23. Day 45 - Top 100 Movies - Introduction to WebScraping using BeautifulSoup
+24. Day 46 - Top 100 Billboard to Spotify - Web Scraping + API requests to make a playlist
